@@ -19,6 +19,5 @@ plots:
   ROC: roc.json
 
 source_data:
-  url:
   data_dir: data
   data_file: data.xml
